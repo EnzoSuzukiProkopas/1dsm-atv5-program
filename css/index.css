@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f0f0f0;
+}
+
+main {
+  max-width: 38rem;
+  margin: 2.5rem auto;
+  padding: 1.25rem;
+  background-color: #fff;
+  border: 1px solid #ccc;
+}
+
+#cidade {
+  width: 100%;
+  padding: 0.625rem;
+  font-size: 1rem;
+}
+
+.cidade {
+  width: 100%;
+  padding: 0.62rem;
+  cursor: pointer;
+  background-color: #f0f0f0;
+  border: 1px solid #e0e0e0;
+}
+
+.cidade:hover {
+  border-color: #f0f0f0;
+}
+
+.dia {
+  padding: 0.625rem;
+  border: 1px solid #ccc;
+}
